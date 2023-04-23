@@ -1,9 +1,9 @@
 ### Hello there 👋, I'm 5X
 
-Engineer 👨‍💻
-Scuba diver 🤿
-Coffee addicted ☕️
-Gym rat 🏋️
+* Engineer 👨‍💻
+* Scuba diver 🤿
+* Coffee addicted ☕️
+* Gym rat 🏋️
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2052%20mins-blue)
