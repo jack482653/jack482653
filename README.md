@@ -6,6 +6,8 @@
 * Gym rat 🏋️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%2059%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -60,5 +62,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 00:08:08 UTC
+ Last Updated on 17/06/2024 00:07:59 UTC
 <!--END_SECTION:waka-->
