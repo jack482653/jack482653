@@ -35,13 +35,13 @@ Sunday                   576 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -57,5 +57,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 00:09:24 UTC
+ Last Updated on 03/02/2025 00:08:54 UTC
 <!--END_SECTION:waka-->
