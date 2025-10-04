@@ -6,6 +6,8 @@
 * Gym rat 🏋️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C911%20hrs%2021%20mins-blue)
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -19,5 +21,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 00:09:27 UTC
+ Last Updated on 04/10/2025 00:09:08 UTC
 <!--END_SECTION:waka-->
