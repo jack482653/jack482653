@@ -6,8 +6,6 @@
 * Gym rat 🏋️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C395%20hrs%2016%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -62,5 +60,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 00:35:00 UTC
+ Last Updated on 08/06/2026 00:36:50 UTC
 <!--END_SECTION:waka-->
