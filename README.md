@@ -33,18 +33,18 @@ Sunday                   591 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 8 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
-Bash                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Terraform                3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-YAML                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Markdown                 8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+Bash                     3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Terraform                2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Other                    2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 42 mins      ██████████████░░░░░░░░░░░   54.47 % 
-VS Code                  9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
+Claude Code              11 hrs 9 mins       █████████████░░░░░░░░░░░░   52.28 % 
+VS Code                  10 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.72 % 
 
 💻 Operating System: 
-Mac                      21 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,5 +60,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:54:52 UTC
+ Last Updated on 25/07/2026 01:54:03 UTC
 <!--END_SECTION:waka-->
