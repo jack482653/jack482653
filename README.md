@@ -6,6 +6,10 @@
 * Gym rat 🏋️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2039%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -33,41 +37,41 @@ Sunday                   591 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.17 % 
-Bash                     3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Terraform                2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Diff                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 11 hrs 27 mins      ████████████░░░░░░░░░░░░░   46.97 % 
+Bash                     4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Terraform                2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Diff                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 3 mins       █████████████████░░░░░░░░   68.97 % 
-VS Code                  6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Claude Code              17 hrs 4 mins       █████████████████░░░░░░░░   69.98 % 
+VS Code                  7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
 
 💻 Operating System: 
-Mac                      20 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 45 mins (77.28%)
+⏱ AI Coding Time: 19 hrs 20 mins (79.32%)
 
-✍️ 6,004 lines written by AI, 262 lines written by hand (95.82% AI-written)
+✍️ 6,523 lines written by AI, 278 lines written by hand (95.91% AI-written)
 
-🔤 232,838,517 Input Tokens, 755,749 Output Tokens
+🔤 276,174,632 Input Tokens, 947,057 Output Tokens
 
-💵 $1065.18 Estimated AI Cost This Week
+💵 $1222.06 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 121 AI Prompts
+🧠 9 AI Sessions, 166 AI Prompts
 
-Opus                     3,485 lines         ███████████████░░░░░░░░░░   58.01 % 
-Sonnet                   2,523 lines         ██████████░░░░░░░░░░░░░░░   41.99 % 
+Opus                     3,953 lines         ███████████████░░░░░░░░░░   60.51 % 
+Sonnet                   2,580 lines         ██████████░░░░░░░░░░░░░░░   39.49 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.82% of written lines came from AI
-📄 Detailed Prompter — average 1,203 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 5.64% of changed lines were hand-edited
+🤖 AI-Driven — 95.91% of written lines came from AI
+📄 Detailed Prompter — average 1,175 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 5.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +87,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:11:53 UTC
+ Last Updated on 08/08/2026 00:59:19 UTC
 <!--END_SECTION:waka-->
