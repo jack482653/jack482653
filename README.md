@@ -6,9 +6,9 @@
 * Gym rat 🏋️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C025%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -37,46 +37,45 @@ Sunday                   581 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 13 hrs 45 mins      ███████████░░░░░░░░░░░░░░   44.62 % 
-Other                    3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-TypeScript               3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Python                   2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 10 hrs 59 mins      ████████████░░░░░░░░░░░░░   47.48 % 
+Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+TypeScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 49 mins      █████████████████░░░░░░░░   67.51 % 
-VS Code                  7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Chrome                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Claude Code              16 hrs 21 mins      ██████████████████░░░░░░░   70.74 % 
+VS Code                  5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Chrome                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      30 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 12 mins (78.46%)
+⏱ AI Coding Time: 18 hrs 46 mins (81.13%)
 
-✍️ 11,513 lines written by AI, 354 lines written by hand (97.02% AI-written)
+✍️ 4,054 lines written by AI, 82 lines written by hand (98.02% AI-written)
 
-🔤 11,953,661 Input Tokens, 1,489,274 Output Tokens
+🔤 9,417,492 Input Tokens, 897,533 Output Tokens
 
-💵 $173.08 Estimated AI Cost This Week
+💵 $137.55 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 320 AI Prompts
+🧠 21 AI Sessions, 253 AI Prompts
 
-Sonnet                   9,862 lines         █████████████████████░░░░   84.75 % 
-Opus                     1,091 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Haiku                    683 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Sonnet                   3,154 lines         ███████████████████░░░░░░   76.17 % 
+Opus                     987 lines           ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.02% of written lines came from AI
-📄 Detailed Prompter — average 883 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 25.47% of changed lines were hand-edited
+🤖 AI-Driven — 98.02% of written lines came from AI
+📄 Detailed Prompter — average 721 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 3.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +91,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 00:46:19 UTC
+ Last Updated on 23/08/2026 00:49:13 UTC
 <!--END_SECTION:waka-->
