@@ -13,21 +13,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌆 Daytime                1157 commits        ████████████░░░░░░░░░░░░░   46.60 % 
-🌃 Evening                958 commits         ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌞 Morning                293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌆 Daytime                1159 commits        ████████████░░░░░░░░░░░░░   46.64 % 
+🌃 Evening                958 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
 🌙 Night                  75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   636 commits         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Tuesday                  262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Monday                   637 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+Tuesday                  262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 Wednesday                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Thursday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Friday                   98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Sunday                   581 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Thursday                 226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Friday                   98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Sunday                   581 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
 ```
 
 
@@ -37,44 +37,43 @@ Sunday                   581 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
-Terraform                4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Other                    4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-XML                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Bash                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Markdown                 10 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.41 % 
+Other                    4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Terraform                3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+XML                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 31 mins      ██████████████████░░░░░░░   71.57 % 
-VS Code                  4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Chrome                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Claude Code              18 hrs 25 mins      ██████████████████░░░░░░░   73.03 % 
+VS Code                  4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Chrome                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 💻 Operating System: 
-Mac                      24 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 34 mins (79.94%)
+⏱ AI Coding Time: 21 hrs 4 mins (83.53%)
 
-✍️ 2,673 lines written by AI, 347 lines written by hand (88.51% AI-written)
+✍️ 3,159 lines written by AI, 105 lines written by hand (96.78% AI-written)
 
-🔤 15,704,486 Input Tokens, 905,501 Output Tokens
+🔤 14,031,431 Input Tokens, 1,007,082 Output Tokens
 
-💵 $162.82 Estimated AI Cost This Week
+💵 $159.26 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 318 AI Prompts
+🧠 24 AI Sessions, 319 AI Prompts
 
-Sonnet                   2,731 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   3,227 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.51% of written lines came from AI
-📄 Detailed Prompter — average 921 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 16.23% of changed lines were hand-edited
+🤖 AI-Driven — 96.78% of written lines came from AI
+📄 Detailed Prompter — average 948 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 5.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,5 +89,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 02:36:42 UTC
+ Last Updated on 15/09/2026 02:40:15 UTC
 <!--END_SECTION:waka-->
