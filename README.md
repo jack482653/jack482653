@@ -13,21 +13,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-🌆 Daytime                1168 commits        ████████████░░░░░░░░░░░░░   46.78 % 
-🌃 Evening                960 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
+🌞 Morning                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                1168 commits        ████████████░░░░░░░░░░░░░   46.72 % 
+🌃 Evening                963 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
 🌙 Night                  75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   637 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Tuesday                  263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Thursday                 232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Monday                   637 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Tuesday                  263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Wednesday                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Thursday                 232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 Friday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Sunday                   581 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Saturday                 414 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Sunday                   581 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
 ```
 
 
@@ -37,26 +37,26 @@ Sunday                   581 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.76 % 
-Python                   5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Other                    2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Java                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown                 6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
+Python                   5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Other                    2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Java                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 33 mins      ████████████████████░░░░░   80.01 % 
-VS Code                  2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Claude Code              14 hrs 33 mins      ████████████████████░░░░░   80.18 % 
+VS Code                  2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 OMP                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Chrome                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Chrome                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Mac                      18 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (91.21%)
+⏱ AI Coding Time: 16 hrs 35 mins (91.4%)
 
 ✍️ 2,730 lines written by AI, 78 lines written by hand (97.22% AI-written)
 
@@ -89,5 +89,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 02:37:40 UTC
+ Last Updated on 21/09/2026 02:33:38 UTC
 <!--END_SECTION:waka-->
