@@ -37,41 +37,41 @@ Sunday                   582 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    5 hrs 55 mins       ███████████████░░░░░░░░░░   60.51 % 
-Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Bash                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Terraform                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other                    2 hrs 41 mins       ████████████████░░░░░░░░░   65.17 % 
+Bash                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Terraform                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 38 mins       ██████████████████████░░░   88.32 % 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Chrome                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Claude Code              3 hrs 35 mins       ██████████████████████░░░   86.83 % 
+VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Chrome                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      9 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 51 mins (90.59%)
+⏱ AI Coding Time: 3 hrs 49 mins (92.18%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 3,447,744 Input Tokens, 317,847 Output Tokens
+🔤 1,706,964 Input Tokens, 112,170 Output Tokens
 
-💵 $32.02 Estimated AI Cost This Week
+💵 $13.78 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 101 AI Prompts
+🧠 5 AI Sessions, 60 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 226 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 106 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -88,5 +88,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 02:29:36 UTC
+ Last Updated on 27/10/2026 03:04:59 UTC
 <!--END_SECTION:waka-->
